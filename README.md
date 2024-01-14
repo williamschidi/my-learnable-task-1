@@ -2,13 +2,13 @@
 
 <p> Version control is a system that manage changes to a project's source code or file over time. It allows multiple contribution to work on the file concurrently, track modifications, and facilitates collaboration by providing a history of changes.</p>
 
-# Git is a distributed version control system that allow you to track changes to your codebase, collaborate with others and manage different version of your project locally.
+<p> Git is a distributed version control system that allow you to track changes to your codebase, collaborate with others and manage different version of your project locally.</p>
 
-# Github on the other hand is a web-based platform that provide hosting for software development using Git it add a layer a layer of collaboration features on the top of Git, allowing multiple developers to work on a project, manage issue and contribute to repositories hosted on Github platform.
+<p> Github on the other hand is a web-based platform that provide hosting for software development using Git it add a layer a layer of collaboration features on the top of Git, allowing multiple developers to work on a project, manage issue and contribute to repositories hosted on Github platform.</p>
 
-# In summary, Git is the version control system, while Github is a web-based platform that utilizes Git for collaborative software development and provides additional tools and feature
+<p> In summary, Git is the version control system, while Github is a web-based platform that utilizes Git for collaborative software development and provides additional tools and feature</p>
 
-# Three other Github alternatives includes
+ Three other Github alternatives includes
 
 # BitBucket
 
