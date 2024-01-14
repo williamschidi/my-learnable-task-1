@@ -8,13 +8,14 @@
 
 <p> In summary, Git is the version control system, while Github is a web-based platform that utilizes Git for collaborative software development and provides additional tools and feature</p>
 
-````Three other Github alternatives includes
+```Three other Github alternatives includes
 
  BitBucket
 
  GitLab
 
- SourceForge ```
+ SourceForge
+```
 
 <p> git fetch and git pull are both git command used to update your local repository with changes from remote repository but they differs in their approach </p>
 
@@ -24,12 +25,12 @@
 
 <p> git rebase is a Git command used to modify the commit history of a branch. it rewrite the commit history by moving, combining or eliminating commit. Unlike git merge, which create a new commit to merge changes, git rebase integrates changes by placing the entire sequence of commits into a new base commit</p>
 
-``` The command for the rebase is
- git rebase main. ```
+```The command for the rebase is
+ git rebase main.
+```
 
 <p> git cherry-pick is a git command that allow you to apply a specific commit from one branch to another. It takes a change introduced by a commit and place a new commit with those changes onto the branch you are currently on. This command will apply the changes from the specified commit to your current branch. if there are no conflicts, Git will create a new commit with the changes. if conflicts arise, you will need to resolve them before completing the cherry-pick. git cherry-pick is useful when you want to selectively bring in changes from one branch to another without merging the entire branch.</p>
 
+```The command for the cherry-pick is
+git cherry-pick <commit-hash>
 ```
-The command for the cherry-pick is
- git cherry-pick <commit-hash>
-````
